@@ -6,7 +6,7 @@
 
 ## 🎉 Live Demo
 - **S3 Website**: http://2048-game-schinchli-prod-1762675685.s3-website-us-east-1.amazonaws.com ✅ **LIVE**
-- **CloudFront HTTPS**: https://d33280av95bc2v.cloudfront.net 🔄 **DEPLOYING**
+- **CloudFront HTTPS**: https://d33280av95bc2v.cloudfront.net ✅ **DEPLOYED & WORKING**
 
 ## 🎯 What You'll Learn
 
