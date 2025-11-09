@@ -2,6 +2,10 @@
 
 > **Complete hands-on tutorial for hosting a static website on AWS S3 with CloudFront CDN**
 
+![My 2048 Game Score](my-score-screenshot.png)
+
+**🎮 This is my score - what's yours? Let's deploy, learn and play while you build a static website on AWS!**
+
 ![2048 Game Screenshot](game-screenshot.png)
 
 ## 🎉 Live Demo
