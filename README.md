@@ -6,8 +6,6 @@
 
 **🎮 This is my score - what's yours? Let's deploy, learn and play while you build a static website on AWS!**
 
-![2048 Game Screenshot](game-screenshot.png)
-
 
 
 ## 🎯 What You'll Learn
