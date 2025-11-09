@@ -5,8 +5,8 @@
 ![2048 Game Screenshot](game-screenshot.png)
 
 ## 🎉 Live Demo
-- **S3 Website**: http://2048-game-schinchli-1762674649.s3-website-us-east-1.amazonaws.com
-- **CloudFront HTTPS**: https://d1dos2bnwq11v3.cloudfront.net ✅ **DEPLOYED**
+- **S3 Website**: http://2048-game-schinchli-prod-1762675685.s3-website-us-east-1.amazonaws.com ✅ **LIVE**
+- **CloudFront HTTPS**: https://d33280av95bc2v.cloudfront.net 🔄 **DEPLOYING**
 
 ## 🎯 What You'll Learn
 

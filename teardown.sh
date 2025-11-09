@@ -47,8 +47,8 @@ echo "🌐 Disabling CloudFront distribution..."
 DIST_CONFIG=$(aws cloudfront get-distribution-config --id $DISTRIBUTION_ID --profile $PROFILE)
 ETAG=$(echo $DIST_CONFIG | jq -r '.ETag')
 
-# Create disabled config
-echo $DIST_CONFIG | jq '.DistributionConfig.Enabled = false' > disabled-config.json
+# Extract just the DistributionConfig and set Enabled to false
+echo $DIST_CONFIG | jq '.DistributionConfig | .Enabled = false' > disabled-config.json
 
 # Update distribution to disabled
 aws cloudfront update-distribution \
