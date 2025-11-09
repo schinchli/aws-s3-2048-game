@@ -1,6 +1,6 @@
-# AWS S3 Static Website Hosting - 2048 Game
+# Host a Static Website on S3, Deploying a 2048 Game
 
-> **Learn AWS S3 and CloudFront by deploying a fun 2048 game!**
+> **Complete AWS S3 + CloudFront tutorial - Learn cloud hosting by building and deploying a fun 2048 game!**
 
 ![My Score Challenge](my-score-screenshot.png)
 
