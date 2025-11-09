@@ -57,9 +57,9 @@ cd aws-s3-2048-game
 
 ## 📚 Additional Resources
 
-- [AWS S3 Documentation](https://docs.aws.amazon.com/s3/)
-- [CloudFront Documentation](https://docs.aws.amazon.com/cloudfront/)
-- [Bootstrap Documentation](https://getbootstrap.com/)
+- [AWS S3 Static Website Hosting Guide](https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html)
+- [CloudFront Developer Guide](https://docs.aws.amazon.com/cloudfront/latest/DeveloperGuide/)
+- [Bootstrap 5 Documentation](https://getbootstrap.com/docs/5.3/)
 
 ---
 
