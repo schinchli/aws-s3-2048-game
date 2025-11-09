@@ -615,7 +615,7 @@ aws cloudfront update-distribution \
 ## 📞 Getting Help
 
 ### Community Resources
-- **AWS Forums**: https://forums.aws.amazon.com/
+- **AWS re:Post**: https://repost.aws/
 - **Stack Overflow**: Tag questions with `amazon-s3` and `amazon-cloudfront`
 - **Reddit**: r/aws community
 - **AWS User Groups**: Local meetups and events
